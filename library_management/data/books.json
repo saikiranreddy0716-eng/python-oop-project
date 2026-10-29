@@ -1,0 +1,9 @@
+[
+    {
+        "book_id": 1001,
+        "title": "python",
+        "author": "sai reddy",
+        "total_copies": 5,
+        "borrowed_copies": 0
+    }
+]
